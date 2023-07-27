@@ -1,0 +1,34 @@
+{
+  "seller": [
+    {
+      "name": "Rahul",
+      "password": "admin@987",
+      "email": "admin",
+      "id": 1
+    },
+    {
+      "name": "B.tech",
+      "password": "admin@987",
+      "email": "admin",
+      "id": 2
+    },
+    {
+      "name": "Rahul",
+      "password": "admin@987",
+      "email": "admin",
+      "id": 3
+    },
+    {
+      "name": "B.tech",
+      "password": "admin@987",
+      "email": "admin",
+      "id": 4
+    },
+    {
+      "name": "Rahul",
+      "password": "admin@987",
+      "email": "admin",
+      "id": 5
+    }
+  ]
+}
